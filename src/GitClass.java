@@ -3,7 +3,9 @@ import java.util.Map;
 
 public class GitClass {
 	
-	
+	private void maha() {
+		System.out.println("shivaya");
+	}
 		public static void main(String[] args) {
 			
 			Map<String, Integer> map = new HashMap<String, Integer>();
