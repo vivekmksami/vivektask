@@ -2,10 +2,16 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class GitClass {
-	
+//<<<<<<< HEAD
 	private void maha() {
 		System.out.println("shivaya");
+		}
+//=======
+	private void kathik() {
+		System.out.println("dhuruvan");	
 	}
+	
+//>>>>>>> d15e2655f50d101ca2a037e8799884fcba2e9aa7
 		public static void main(String[] args) {
 			
 			Map<String, Integer> map = new HashMap<String, Integer>();
