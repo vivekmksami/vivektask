@@ -7,7 +7,8 @@ public class GitClass {
 		public static void main(String[] args) {
 			
 			Map<String, Integer> map = new HashMap<String, Integer>();
-			
+			System.out.println("Maha");
+			System.out.println("Chennai");
 			map.put("csk",280);
 			map.put("kfc",220);
 			map.put("hdfc",230);
