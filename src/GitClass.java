@@ -6,6 +6,8 @@ public class GitClass {
 	
 		public static void main(String[] args) {
 			
+			System.out.println("Vivek");
+			System.out.println("Greens");
 			Map<String, Integer> map = new HashMap<String, Integer>();
 			
 			map.put("csk",280);
