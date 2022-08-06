@@ -2,7 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class GitClass {
-	
+	private void kathik() {
+		System.out.println("dhuruvan");
+	}
 	
 		public static void main(String[] args) {
 			
